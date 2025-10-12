@@ -11,3 +11,8 @@ td {
 table img {
 	display: none;
 }
+
+body {
+	background-color: blue
+	color: white
+}
