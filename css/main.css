@@ -11,3 +11,9 @@ td {
 table img {
 	display: none;
 }
+
+/* Cambio de color h2 */
+h2 {
+  color: blue;
+  text-align: center;
+}
