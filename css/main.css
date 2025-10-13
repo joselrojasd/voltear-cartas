@@ -1,11 +1,15 @@
+body{
+        color:red
+}
 .seleccionada {
-	border-color: brown;
+	border-color: yelow;
 	border-style: solid;
 	border-width: 10px;
 }
 
 td {
 	padding: 10px;
+        
 }
 
 table img {
