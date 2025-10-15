@@ -1,0 +1,12 @@
+body{
+    background-color:#dcdcdc;
+    border: 1px solid #000000;
+    font-family:serif;
+    text-align: center;
+}
+
+h1{
+    color:red;
+}
+
+
