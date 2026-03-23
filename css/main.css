@@ -1,7 +1,7 @@
 .seleccionada {
 	border-color: brown;
 	border-style: solid;
-	border-width: 10px;
+	border-width: 15px; /*Mi edicion*/
 }
 
 td {
