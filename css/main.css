@@ -1,11 +1,11 @@
 .seleccionada {
-	border-color: brown;
+	border-color: blue;
 	border-style: solid;
-	border-width: 10px;
+	border-width: 8px;
 }
 
 td {
-	padding: 10px;
+	padding: 6px;
 }
 
 table img {
