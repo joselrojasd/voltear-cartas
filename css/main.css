@@ -1,13 +1,15 @@
-.seleccionada {
-	border-color: brown;
-	border-style: solid;
-	border-width: 10px;
-}
 
 td {
-	padding: 10px;
+    padding: 12px;
+    text-align: center;
 }
 
 table img {
-	display: none;
+    display: block; 
+    width: 90px;
+    height: 90px;
+    object-fit: cover;
+    border-radius: 8px;
+    transition: all 0.2s ease-in-out;
 }
+
